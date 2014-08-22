@@ -7,7 +7,13 @@
 	<groupId>taro</groupId>
 	<artifactId>taro</artifactId>
 	<version>0.1</version>
-
+    <licenses>
+        <license>
+            <name>The MIT License (MIT)</name>
+            <url>https://github.com/jbrundege/taro/blob/master/LICENSE</url>
+            <distribution>manual</distribution>
+        </license>
+    </licenses>
 	<build>
 		<plugins>
 			<plugin>
